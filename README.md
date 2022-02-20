@@ -6,11 +6,11 @@ INTEGRANTES
 KATHERINE GUADALUPE HERNÁNDEZ DE LA CRUZ 25-1341-2016
 GONZALEZ VANEGAS FRANKLIN ANTONIO  25-1218-2013
 
-(https://github.com/Franklingonz02/ParcialElectica3/blob/main/Capturas/c1.jpeg)
-(https://github.com/Franklingonz02/ParcialElectica3/blob/main/Capturas/c2.jpeg)
-(https://github.com/Franklingonz02/ParcialElectica3/blob/main/Capturas/c3.jpeg)
-(https://github.com/Franklingonz02/ParcialElectica3/blob/main/Capturas/c4.jpeg)
-(https://github.com/Franklingonz02/ParcialElectica3/blob/main/Capturas/c5.jpeg)
+![Image text](https://github.com/Franklingonz02/ParcialElectica3/blob/main/Capturas/c1.jpeg)
+![Image text](https://github.com/Franklingonz02/ParcialElectica3/blob/main/Capturas/c2.jpeg)
+![Image text](https://github.com/Franklingonz02/ParcialElectica3/blob/main/Capturas/c3.jpeg)
+![Image text](https://github.com/Franklingonz02/ParcialElectica3/blob/main/Capturas/c4.jpeg)
+![Image text](https://github.com/Franklingonz02/ParcialElectica3/blob/main/Capturas/c5.jpeg)
 
 
 
